@@ -1,0 +1,10 @@
+尊敬的廖老师：
+    您好！
+    首先感谢您的git课程，很系统的学习了git，对于我这种学东西不条理的人，受益匪浅。
+    然后提出一个git的一个小更新：
+    我用的是git version 2.7.4，在您的课程“多人协作”目录下，指定本地dev分支和远程origin/dev分支的链接命令更改如下：
+    原命令：git branch --set-upstream dev origin/dev
+    现命令：git branch --set-upstream-to=origin/dev dev
+    自己原来是生物专业，一直想转行软件专业，但是一直缺少这种系统的课程，再次感谢，也希望您能继续更新相关的课程，比如golang实战性的课程,MongDB等，在自己的经济水平上，我还是愿意为教育花费的。
+							太原理工大学  李强
+							 463751202@qq.com
